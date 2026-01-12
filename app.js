@@ -11,7 +11,8 @@ const animals = {
     "lion": "roar",
     "bird": "tweet",
     "otaku": "uwu",
-    "fox": "sdfk"
+    "fox": "sdfk",
+    "mouse": "squeak"
 };
 
 function getAnimal() {
